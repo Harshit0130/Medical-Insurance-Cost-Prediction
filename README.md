@@ -47,4 +47,5 @@ Key insights:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/Medical-Insurance-Cost-Prediction.git
+git clone https://github.com/Harshit0130/Medical-Insurance-Cost-Prediction.git
+
